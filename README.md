@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1wM41197a1/](https://www.bilibili.com/video/BV1wM41197a1/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot的外卖系统(源码+数据库)106
 
@@ -84,7 +84,7 @@
 
 4. com/reggie/ReggieApplication.java启动后端项目
 
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+**完整代码收费  可以加qq 1556708905 或者加微信zheng0123Long 咨询**
 
 **接毕业设计和论文**
 
